@@ -11,7 +11,7 @@ published: true
   <img src="/assets/images/brief.svg" width="190" height="100" />
 </div>
 
-# Jeder der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 25. April 2016 freigeschaltet.
+# Jeder, der mitmachen möchte, muss sich auf unserer Webseite registrieren. Die Registrierung wird ab dem 25. April 2016 freigeschaltet.
 
 ![Registrierung]({{site.baseurl}}/assets/images/Registrierung_preliminary.jpg)
 
